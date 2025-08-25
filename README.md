@@ -18,6 +18,7 @@ The project includes:
 ---
 
 ## 📂 Project Structure
+```bash
 ASL_Project/
 │── dataset/ # ASL dataset (training images)
 │── asl_train.py # Data preprocessing + model training script
@@ -25,7 +26,7 @@ ASL_Project/
 │── best_asl_model.h5 # Trained CNN model
 │── class_labels.pkl # Saved class labels
 │── README.md # Project documentation
-
+```
 ---
 
 
